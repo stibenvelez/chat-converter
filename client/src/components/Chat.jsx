@@ -86,7 +86,7 @@ const Chat = () => {
         <div className="flex flex-col space-y-8 p-2 w-full lg:w-1/3 md:w-1/2 ">
             <div>
                 <h1 className="text-4xl font-bold text-center text-indigo-600">
-                    Conversion Chat
+                    Convertidor de Moneda
                 </h1>
 
                 <p className="text-center">
